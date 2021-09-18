@@ -42,3 +42,7 @@ This headers can be used with any framework language, with providers like Google
 * https://cloud.google.com/appengine/docs/flexible/go/reference/request-headers
 * https://azure.microsoft.com/en-in/blog/rewrite-http-headers-with-azure-application-gateway/
 * https://www.nginx.com/resources/wiki/start/topics/examples/forwarded/
+* https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers
+* https://portswigger.net/web-security/request-smuggling
+* https://github.com/sting8k/BurpSuite_403Bypasser
+* https://owasp.org/www-community/attacks/Log_Injection
