@@ -14,6 +14,7 @@ List of headers to identify and exploit attacks through IP spoofing header injec
 * X-Forward-For
 * Forwarded-For-IP
 * X-Originating-IP
+* X-Original-URL
 * X-Forwarded-For-IP
 * X-Forwarded-Port
 * X-Remote-IP
@@ -31,6 +32,7 @@ List of headers to identify and exploit attacks through IP spoofing header injec
 * X-Cluster-Client-Ip
 * CF-Connecting-IP
 * True-Client-IP
+* Fastly-Client-IP
 
 ### Scope
 
@@ -46,3 +48,4 @@ This headers can be used with any framework language, with providers like Google
 * https://portswigger.net/web-security/request-smuggling
 * https://github.com/sting8k/BurpSuite_403Bypasser
 * https://owasp.org/www-community/attacks/Log_Injection
+* https://docs.google.com/presentation/d/1ek6DzXKBQd6xUiVNGRT33pMACs8M13CSoYCkgepDKZk/edit
