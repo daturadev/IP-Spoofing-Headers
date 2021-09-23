@@ -10,6 +10,7 @@ X-Forwarded-For-Original
 X-Forward-For
 Forwarded-For-IP
 X-Originating-IP
+X-Original-URL
 X-Forwarded-For-IP
 X-Forwarded-Port
 X-Remote-IP
@@ -27,3 +28,4 @@ Via
 X-Cluster-Client-Ip
 CF-Connecting-IP
 True-Client-IP
+Fastly-Client-IP
