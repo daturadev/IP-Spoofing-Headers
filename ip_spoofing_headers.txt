@@ -1,31 +1,33 @@
-Forwarded
-X-Forwarded
-X-Forwarded-Host
-X-Forwarded-By
-X-Forwarded-For
-X-Forwarded-Server
-X-Real-IP
-X-Forwarded-Proto
-X-Forwarded-For-Original
-X-Forward-For
-Forwarded-For-IP
-X-Originating-IP
-X-Original-URL
-X-Forwarded-For-IP
-X-Forwarded-Port
-X-Remote-IP
-X-Remote-Addr
-X-Remote-Host
-X-Server-Name
-X-Client-IP
-Client-Ip
-X-Host
-Origin
-Access-Control-Allow-Origin
-X-Custom-IP-Authorization
-X-ProxyUser-Ip
-Via
-X-Cluster-Client-Ip
-CF-Connecting-IP
-True-Client-IP
-Fastly-Client-IP
+Forwarded: localhost
+X-Forwarded: localhost
+X-Forwarded-Host: localhost
+X-Forwarded-By: localhost
+X-Forwarded-For: 127.0.0.1
+X-Forwarded-Server: 127.0.0.1
+X-Real-IP: 127.0.0.1
+X-Forwarded-Proto: https
+X-Forwarded-For-Original: https
+X-Forward-For: 127.0.0.1
+Forwarded-For-IP: 127.0.0.1
+X-Originating-IP: 127.0.0.1
+X-Remote-IP: 127.0.0.1
+X-Remote-Addr: 127.0.0.1
+X-Remote-Host: localhost
+X-Client-IP: 127.0.0.1
+Client-Ip: 127.0.0.1
+X-Host: localhost
+Origin: localhost
+Access-Control-Allow-Origin: localhost
+X-Custom-IP-Authorization: 127.0.0.1
+X-ProxyUser-Ip: 127.0.0.1
+Via: localhost
+X-Cluster-Client-Ip: 127.0.0.1
+CF-Connecting-IP: 127.0.0.1
+True-Client-IP: 127.0.0.1
+Fastly-Client-IP: 127.0.0.1
+X-Forwarded-Proto: https
+Accept-Language: *
+Accept-Encoding: *
+Accept-Post: */*
+X-DNS-Prefetch-Control: off
+X-XSS-Protection: 0
